@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **UsmonPythonBackend/UsmonPythonBackend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+About Me:
+I am Software Engineer with experience in learning new technologies, developing software, and building scalable and efficient applications.
+I am passionate about coding and constantly strive to improve my skills by keeping up-to-date with new technologies and best practices.
+Find Me:
+Contributing to open source on Github 🏓
+Sharing updates on LinkedIn 💼
+My Skills: 🚀
+HTML CSS Python SAAS git Github SQL Docker C++ Github Apps CI / CD PostgreSQL PyQt5 DRF Problem Solving
+
+Connect with me:
