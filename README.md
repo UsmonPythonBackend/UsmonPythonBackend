@@ -20,6 +20,6 @@ Find Me:
 Contributing to open source on Github 🏓
 Sharing updates on LinkedIn 💼
 My Skills: 🚀
-HTML CSS Python SAAS git Github SQL Docker C++ Github Apps CI / CD PostgreSQL PyQt5 DRF Problem Solving
+HTML CSS Python SAAS git Github SQL Docker Github Apps PostgreSQL DRF Problem Solving
 
 Connect with me:
